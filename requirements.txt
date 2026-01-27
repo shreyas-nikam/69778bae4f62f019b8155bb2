@@ -8,3 +8,9 @@ scipy
 seaborn
 plotly
 requests
+opentelemetry-api
+opentelemetry-sdk
+grafana-client
+prometheus-client
+yaml
+openai
