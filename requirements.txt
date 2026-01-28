@@ -12,5 +12,4 @@ opentelemetry-api
 opentelemetry-sdk
 grafana-client
 prometheus-client
-yaml
 openai
